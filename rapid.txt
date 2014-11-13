@@ -7,3 +7,7 @@ cinst vlc
 cinst google-chrome-x64
 cinst PDFCreator
 cinst puppet
+Disable-UAC
+Enable-RemoteDesktop
+Enable-MicrosoftUpdate
+Install-WindowsUpdate
