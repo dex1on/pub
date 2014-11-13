@@ -1,0 +1,9 @@
+Update-ExecutionPolicy Unrestricted
+cinst jre8
+cinst 7zip
+cinst flashplayeractivex
+cinst adobereader
+cinst vlc
+cinst google-chrome-x64
+cinst PDFCreator
+cinst puppet
