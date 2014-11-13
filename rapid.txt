@@ -9,5 +9,3 @@ cinst PDFCreator
 cinst puppet
 Disable-UAC
 Enable-RemoteDesktop
-Enable-MicrosoftUpdate
-Install-WindowsUpdate
